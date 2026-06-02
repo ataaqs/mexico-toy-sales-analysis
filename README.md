@@ -1,7 +1,9 @@
 # Mexico Toys Sales & Inventory Performance Analysis
 
 ## Project Overview
-This project analyzes sales and inventory performance across toy store locations in Mexico using SQL. The analysis focuses on profitability, seasonal sales trends, stock availability, and inventory efficiency to generate actionable business insights.
+SQL-based retail sales and inventory analysis project using a Mexico toy store dataset.
+
+This project explores profitability, seasonal sales trends, inventory coverage, and stockout risks to generate business insights and operational recommendations.
 ---
 
 ## Objectives
