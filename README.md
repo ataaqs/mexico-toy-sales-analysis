@@ -381,10 +381,12 @@ The analysis also shows that not all products face the same inventory pressure, 
 ```bash
 mexico-toy-sales-analysis/
 │
-├── datasets/
-├── reports/
-├── sql/
-├── visuals/
+├── dataset/
+│   ├── sales.csv
+│   ├── products.csv
+│   ├── stores.csv
+│   └── inventory.csv
+│
 └── README.md
 ```
 
